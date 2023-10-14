@@ -14,3 +14,6 @@ Only the Admin has the right to perform the above-mentioned actions using the Ad
 ![image_9](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/c31970cb-6e1f-4750-9df9-6b293a28be96)
 ![image_10](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/410ba1ba-b4fc-4a4a-a962-2afb9f753002)
 ![image_11](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/fc95e225-1f95-44bb-bf87-113fde0a0433)
+![image_12](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/a48287d7-2920-49aa-9527-d2e2e6e4524e)
+![image_13](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/dcb94013-56d0-47c4-805d-c1e370d21740)
+![image_14](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/b5316938-a2e9-4cb4-b1c5-1b60fa75a2e1)
