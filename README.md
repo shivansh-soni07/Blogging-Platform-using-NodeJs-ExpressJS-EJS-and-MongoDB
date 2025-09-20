@@ -5,6 +5,8 @@ They can add new posts, edit them, and also delete them.
 
 Only the Admin has the right to perform the above-mentioned actions using the Admin panel.
 
+Environment Variable Required: MONGODB_URI , JWT_SECRET
+
 ![1](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/3849b553-411f-429c-88c1-af80f521566c)
 ![image_4](https://github.com/shivansh-soni07/Blogging-Platform-using-NodeJs-ExpressJS-EJS-and-MongoDB/assets/72219885/5b41e0ed-f1f3-4732-b027-df2d55457e19)
 
